@@ -34,7 +34,7 @@ Para o sistema funcionar corretamente, é obrigatório iniciar o Backend antes d
 Aceda à pasta do frontend no terminal.
 
 Instale as dependências:
-    ```bash
+```bash
     npm install
     
     
