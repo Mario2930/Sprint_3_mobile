@@ -39,7 +39,6 @@ Instale as dependências:
     
     
 ### Inicie o Expo forçando a versão Web:
-    ```bash
     npx expo start -w
 
 (A aplicação abrirá automaticamente no navegador em http://localhost:8081).
