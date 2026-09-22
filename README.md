@@ -37,6 +37,7 @@ Instale as dependências:
     ```bash
     npm install
     
+    
 Inicie o Expo forçando a versão Web:
  ```bash
     npx expo start -w
