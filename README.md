@@ -34,14 +34,15 @@ Para o sistema funcionar corretamente, é obrigatório iniciar o Backend antes d
 Aceda à pasta do frontend no terminal.
 
 Instale as dependências:
-```bash
+    ```bash
     npm install
     
     
-Inicie o Expo forçando a versão Web:
+### Inicie o Expo forçando a versão Web:
     ```bash
     npx expo start -w
-    (A aplicação abrirá automaticamente no navegador em http://localhost:8081).
+
+(A aplicação abrirá automaticamente no navegador em http://localhost:8081).
 
 ## 🔌 Configuração da BASE_URL
 
